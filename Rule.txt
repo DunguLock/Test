@@ -1,0 +1,2 @@
+git checkout -b "name" :  build a new branch
+git pull origin master : get the newest files
